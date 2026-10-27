@@ -3,7 +3,7 @@
     "name": "MyApp2",
     "slug": "MyApp2",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp2",
     "userInterfaceStyle": "automatic",
